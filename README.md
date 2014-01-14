@@ -24,4 +24,4 @@ This is free software, and you are welcome to redistribute it under certain cond
 
 ### Author
 
-Emilis Dambauskas <emilis.d@gmail.com>, <http://emilis.github.com/>.
+Emilis Dambauskas <emilis.d@gmail.com>, <http://emilis.github.io/>.
