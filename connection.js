@@ -85,6 +85,7 @@ function openConnection( host, port, onConnectCb ){
         on:         emitter.on.bind( emitter ),
         once:       emitter.once.bind( emitter ),
         off:        emitter.removeListener.bind( emitter ),
+        emit:       emitter.emit.bind( emitter),
         close:      close,
         send:       send,
         /// for debug only:

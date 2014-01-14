@@ -6,5 +6,7 @@
         "name":     "Emilis Dambauskas",
         "email":    "emilis.d@gmail.com"
     },
-    "dependencies": {}
+    "dependencies": {
+        "request":  "2.x"
+    }
 }
